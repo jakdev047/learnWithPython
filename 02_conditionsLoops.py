@@ -1,9 +1,16 @@
-# 1. Conditional Statements (if, elif, else)
-
-# These statements control the flow of a program based on whether a condition is True or False.
-# The `if` keyword starts a conditional block. The code inside an `if` block runs only if the condition is `True`.
-# `elif` (short for "else if") checks another condition only if the previous `if` or `elif` conditions were `False`.
-# The `else` keyword is optional. The code inside an `else` block runs if all preceding `if` and `elif` conditions are `False`.
+"""
+2. Conditions & Loops
+    Conditional Statements (if, elif, else)
+    Comparison Operators
+    Logical Operators
+    Nested Conditions
+    For Loops
+    While Loops
+    range() Function
+    break, continue, pass
+    Nested Loops
+    List Comprehension
+"""
 
 marks = float(input("Enter your marks: "))
 

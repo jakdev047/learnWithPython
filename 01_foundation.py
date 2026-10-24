@@ -10,7 +10,13 @@
     f-strings
 """
 # syntax
-print("Hello World!")
+greetings = "Hello World!"
+print(greetings)  # Output: Hello World!
+len(greetings) # Output: 12
+
+import sys # sys module is used to get the size of the string
+print("sys.getsizeof(greetings): ",sys.getsizeof(greetings)) # Output: 61   
+
 
 # variable (int, str, float, bool)
 userName = "Jubayer Alam Khan"
