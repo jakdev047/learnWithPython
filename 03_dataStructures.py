@@ -346,6 +346,14 @@ Project 01 — Student Management System
 
 Use a list of dictionaries to implement the following features: Add, Update, Delete, Search, and Sort Students, and Calculate Average Marks.
 
+    1. Display Students
+    2. Add Student
+    3. Update Student
+    4. Delete Student
+    5. Search Student
+    6. Sort Students
+    7. Calculate Average Marks
+
 """
 
 # PROJECT 01: STUDENT MANAGEMENT SYSTEM
@@ -523,6 +531,13 @@ while True:
 Project 02 — Inventory Management System
 
 Use a dictionary of lists to manage product inventory. Implement add, update, remove, search, and stock count features.
+
+    1. Show Products
+    2. Add Product to cart
+    3. Show Product
+    4. Update Quantity
+    5. Remove Product
+    6. Calculate Total and Discount
 
 """
 
@@ -702,6 +717,17 @@ Project 03 — Simple Dataset Analyzer
 
 Analyze a student dataset to identify missing marks and duplicate names, calculate average marks, find the highest and lowest values, and filter students who have passed.
 
+    1. Total Records
+    2. Missing Marks
+    3. Duplicate Names
+    4. Average Marks
+    5. Highest and Lowest
+    6. Filter Passed Students
+    7. Highest and Lowest Marks
+    8. Filter Passed Students
+    9. Filter Failed Students
+    
+
 """
 
 
@@ -855,6 +881,18 @@ Project 04 — Restaurant Menu & Order System
 
 Create a restaurant menu using a dictionary of dictionaries. Implement add, update, remove, and search operations for menu items. Users should be able to add items to their order, view the order, update quantities, remove items, and calculate the total bill.
 
+    Menu options:
+        1. Show Menu
+        2. Add Menu Item
+        3. Update Menu Item
+        4. Remove Menu Item
+        5. Search Menu Item
+        6. Add Food to Order
+        7. View Order
+        8. Update Order Quantity
+        9. Remove Food from Order
+        10. Calculate Bill
+        11. Exit
 """
 
 # ==========================================
